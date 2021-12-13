@@ -41,8 +41,8 @@
 
     width: 400px;
     height: 350px;
-    margin-top: -194px;
-    margin-right: 160px;
+    margin-top: -200px;
+    margin-right: 500px;
     float: right;
     border-radius: 12px;
     background-color: white;
